@@ -97,7 +97,7 @@
                                 </ul>
                             </li>
 
-                            <li class="sub-menu sub-menu-1" ><a href="#" style="font-size: 18px;" >Блог<em></em></a>
+                            <li class="sub-menu sub-menu-1" ><a href="#" style="font-size: 18px;" >Наш Блог<em></em></a>
                                 <ul>
                                     <li><a href="blog.html" >Right Blog</a></li>
                                     <li><a href="left-blog.html">Left Blog</a></li>
