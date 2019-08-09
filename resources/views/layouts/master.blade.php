@@ -12,6 +12,8 @@
     <link href="{{ asset('css/bootstrap.css') }}" rel="stylesheet">
     <link href="{{ asset('css/font-awesome.css') }}" rel="stylesheet">
     <link href="{{ asset('css/animate.css') }}" rel="stylesheet">
+      <link href="{{ asset('css/touchTouch.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/isotope.css') }}" rel="stylesheet">
     <link href="{{ asset('css/select2.css') }}" rel="stylesheet">
     <link href="{{ asset('css/smoothness/jquery-ui-1.10.0.custom.css') }}" rel="stylesheet">
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
@@ -50,7 +52,7 @@
                 <header>
                     <div class="logo_wrapper">
                         <a href="index.html" class="logo">
-                            <img src="{{asset('images/logotype.png')" style="width: 190px; height: 94px"  alt="" class="img-responsive">
+                            <img src="{{asset('images/logotype.png')}}" style="width: 190px; height: 94px"  alt="" class="img-responsive">
                         </a>
                     </div>
                 </header>
@@ -191,27 +193,20 @@
     </div>
 
 </div>
-<script src="js/jquery.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery-ui.js"></script>
-<script src="js/jquery-migrate-1.2.1.min.js"></script>
-<script src="js/jquery.easing.1.3.js"></script>
-<script src="js/superfish.js"></script>
-
-<script src="js/select2.js"></script>
-
-<script src="js/jquery.parallax-1.1.3.resize.js"></script>
-
-<script src="js/SmoothScroll.js"></script>
-
-<script src="js/jquery.appear.js"></script>
-
-<script src="js/jquery.caroufredsel.js"></script>
-<script src="js/jquery.touchSwipe.min.js"></script>
-
-<script src="js/jquery.ui.totop.js"></script>
-
-<script src="js/script.js"></script>
-
+@yield ("scripts")
+<script src="{{asset('js/jquery.js')}}"></script>
+<script src="{{asset('js/bootstrap.min.js')}}"></script>
+<script src="{{asset('js/jquery-ui.js')}}"></script>
+<script src="{{asset('js/jquery-migrate-1.2.1.min.js')}}"></script>
+<script src="{{asset('js/jquery.easing.1.3.js')}}"></script>
+<script src="{{asset('js/superfish.js')}}"></script>
+<script src="{{asset('js/select2.js')}}"></script>
+<script src="{{asset('js/jquery.parallax-1.1.3.resize.js')}}"></script>
+<script src="{{asset('js/SmoothScroll.js')}}"></script>
+<script src="{{asset('js/jquery.appear.js')}}"></script>
+<script src="{{asset('js/jquery.caroufredsel.js')}}"></script>
+<script src="{{asset('js/jquery.touchSwipe.min.js')}}"></script>
+<script src="{{asset('js/jquery.ui.totop.js')}}"></script>
+<script src="{{asset('js/script.js')}}"></script>
 </body>
 </html>

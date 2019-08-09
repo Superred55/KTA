@@ -1,6 +1,8 @@
 @extends ("layouts.master")
 @section("content")
- <div id="parallax2" class="parallax">
+<body class="not-front page-gallery">
+
+  <div id="parallax2" class="parallax">
         <div class="bg2 parallax-bg"></div>
         <div class="overlay"></div>
         <div class="parallax-content">
@@ -209,4 +211,12 @@
 
         </div>
     </div>
+</body>
+
+@endsection
+@section ("scripts")
+ <script src="{{asset('js/touchTouch.jquery.js')}}"></script>
+    <script src="{{asset('js/isotope.pkgd.min.js')}}"></script>
+    <script src="{{asset('js/imagesloaded.pkgd.js')}}"></script>
+   <script src="{{asset('js/script.js')}}"></script>
 @endsection
