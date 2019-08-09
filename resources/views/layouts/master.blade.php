@@ -51,8 +51,8 @@
             <div class="top2 clearfix">
                 <header>
                     <div class="logo_wrapper">
-                        <a href="index.html" class="logo">
-                            <img src="{{asset('images/logotype.png')}}" style="width: 190px; height: 94px"  alt="" class="img-responsive">
+                        <a href="/" class="logo">
+                            <img src="{{asset('images/Logotype.png')}}" style="width: 190px; height: 94px"  alt="" class="img-responsive">
                         </a>
                     </div>
                 </header>
@@ -71,42 +71,24 @@
                                </li>
                             <li><a href="/about" style="font-size: 18px;" >О нас</a></li>
                             <li><a href="/gallery" style="font-size: 18px;" >Галлерея</a></li>
-                            <li class="sub-menu sub-menu-1"><a href="#" style="font-size: 18px;">Горящие туры<em></em></a>
+                            <li class="sub-menu sub-menu-1"><a href="#" style="font-size: 18px;">Услуги<em></em></a>
                                 <ul>
-                                    <li><a href="flights.html" style="font-size: 18px;">Туры</a>
-                                        <ul>
-                                            <li><a href="search-flights.html" style="font-size: 16px;">Поиск туров</a></li>
-                                            <li><a href="booking-flights.html" style="font-size: 16px;" >Бронирование туров</a></li>
-                                            <li><a href="booking-flights-page.html" style="font-size: 16px;" >Посмотреть туры</a></li>
-                                        </ul>
+                                    <li><a href="/tours" style="font-size: 18px;">Туры</a>
+                                    
                                     </li>
 
 
                                     <li><a href="hotels.html" style="font-size: 18px;">Отели</a>
-                                        <ul>
-                                            <li><a href="search-hotel.html" style="font-size: 16px;">Поиск отелей</a></li>
-                                            <li><a href="booking-hotel.html" style="font-size: 16px;">Бронирование отелей</a></li>
-                                            <li><a href="booking-hotel-page.html" style="font-size: 16px;">Hotel Reservation</a></li>
-                                        </ul>
+            
                                     </li>
-                                 <li><a href="cruises.html" style="font-size: 18px;">Cruises</a>
-                                        <ul>
-                                            <li><a href="search-cruise.html" style="font-size: 16px;">Search Cruise</a></li>
-                                            <li><a href="booking-cruise.html" style="font-size: 16px;">Booking Cruise</a></li>
-                                            <li><a href="booking-cruise-page.html" style="font-size: 16px;">Cruise Checkout</a></li>
-                                        </ul>
+                                 <li><a href="cruises.html" style="font-size: 18px;">Круизы</a>
+                                       
+                
                                     </li>
                                 </ul>
                             </li>
 
-                            <li class="sub-menu sub-menu-1" ><a href="#" style="font-size: 18px;" >Наш Блог<em></em></a>
-                                <ul>
-                                    <li><a href="blog.html" >Right Blog</a></li>
-                                    <li><a href="left-blog.html">Left Blog</a></li>
-                                    <li><a href="post.html">Right Post</a></li>
-                                    <li><a href="left-post.html">Left Post</a></li>
-                                    <li><a href="full-post.html">Full Post</a></li>
-                                </ul>
+                            <li ><a href="#" style="font-size: 18px;" >Наш Блог</a>
                             </li>
                             <li><a href="contacts.html" style="font-size: 18px;">Контакты</a></li>
                         </ul>

@@ -22,3 +22,17 @@ Route::get('/about', function () {
 Route::get('/gallery', function () {
     return view('gallery');
 });
+
+Route::get('/tours', function () {
+    return view('tours');
+});
+
+Route::get('/booking-tours', function () {
+    return view('booking-tours');
+});
+
+Route::get('/tours-checkout', function () {
+    return view('tours-checkout');
+});
+
+
