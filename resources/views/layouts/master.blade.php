@@ -50,7 +50,7 @@
                 <header>
                     <div class="logo_wrapper">
                         <a href="index.html" class="logo">
-                            <img src="images/logotype.png" style="width: 190px; height: 94px"  alt="" class="img-responsive">
+                            <img src="{{asset('images/logotype.png')" style="width: 190px; height: 94px"  alt="" class="img-responsive">
                         </a>
                     </div>
                 </header>
@@ -68,7 +68,7 @@
                             <li class="active"><a href="/" style="font-size: 18px;">Главная</a>
                                </li>
                             <li><a href="/about" style="font-size: 18px;" >О нас</a></li>
-                            <li><a href="gallery.html" style="font-size: 18px;" >Галлерея</a></li>
+                            <li><a href="/gallery" style="font-size: 18px;" >Галлерея</a></li>
                             <li class="sub-menu sub-menu-1"><a href="#" style="font-size: 18px;">Горящие туры<em></em></a>
                                 <ul>
                                     <li><a href="flights.html" style="font-size: 18px;">Туры</a>
