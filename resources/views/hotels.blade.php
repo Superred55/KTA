@@ -21,8 +21,8 @@
                     <div class="tabs_tabs tabs1_tabs">
 
                         <ul>
-                            <li class="active flights"><a href="#tabs-1">Flights</a></li>
-                            <li class="hotels"><a href="#tabs-2">Hotels</a></li>
+                            <li class="flights"><a href="#tabs-1">Flights</a></li>
+                            <li class="active hotels"><a href="#tabs-2">Hotels</a></li>
                             <li class="cars"><a href="#tabs-3">Cars</a></li>
                             <li class="cruises"><a href="#tabs-4">Cruises</a></li>
                         </ul>
@@ -256,7 +256,7 @@
                                                                 <div class="price">$250.00</div>
                                                                 <div class="nums">avg/person</div>
                                                             </div>
-                                                            <div class="right_side"><a href="/booking-tours"
+                                                            <div class="right_side"><a href="/tours"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -278,7 +278,7 @@
                                                                 <div class="price">$849.00</div>
                                                                 <div class="nums">avg/person</div>
                                                             </div>
-                                                            <div class="right_side"><a href="/booking-tours"
+                                                            <div class="right_side"><a href="/tours"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -300,7 +300,7 @@
                                                                 <div class="price">$849.00</div>
                                                                 <div class="nums">avg/person</div>
                                                             </div>
-                                                            <div class="right_side"><a href="/booking-tours"
+                                                            <div class="right_side"><a href="/tours"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -327,7 +327,7 @@
                                                                 <div class="price">$549.00</div>
                                                                 <div class="nums">avg/person</div>
                                                             </div>
-                                                            <div class="right_side"><a href="/booking-tours"
+                                                            <div class="right_side"><a href="/tours"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -349,7 +349,7 @@
                                                                 <div class="price">$749.00</div>
                                                                 <div class="nums">avg/person</div>
                                                             </div>
-                                                            <div class="right_side"><a href="/booking-tours"
+                                                            <div class="right_side"><a href="/tours"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -371,7 +371,7 @@
                                                                 <div class="price">$179.00</div>
                                                                 <div class="nums">avg/person</div>
                                                             </div>
-                                                            <div class="right_side"><a href="/booking-tours"
+                                                            <div class="right_side"><a href="/tours"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -398,7 +398,7 @@
                                                                 <div class="price">$69.00</div>
                                                                 <div class="nums">avg/person</div>
                                                             </div>
-                                                            <div class="right_side"><a href="/booking-tours"
+                                                            <div class="right_side"><a href="/tours"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -420,7 +420,7 @@
                                                                 <div class="price">$539.00</div>
                                                                 <div class="nums">avg/person</div>
                                                             </div>
-                                                            <div class="right_side"><a href="/booking-tours"
+                                                            <div class="right_side"><a href="/tours"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -442,7 +442,7 @@
                                                                 <div class="price">$49.00</div>
                                                                 <div class="nums">avg/person</div>
                                                             </div>
-                                                            <div class="right_side"><a href="/booking-tours"
+                                                            <div class="right_side"><a href="/tours"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -764,7 +764,7 @@
                                                                     <img src="images/star3.png" alt="">
                                                                 </div>
                                                             </div>
-                                                            <div class="right_side"><a href="/hotels"
+                                                            <div class="right_side"><a href="/booking-hotels"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -798,7 +798,7 @@
                                                                     <img src="images/star3.png" alt="">
                                                                 </div>
                                                             </div>
-                                                            <div class="right_side"><a href="/hotels"
+                                                            <div class="right_side"><a href="/booking-hotels"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -832,7 +832,7 @@
                                                                     <img src="images/star3.png" alt="">
                                                                 </div>
                                                             </div>
-                                                            <div class="right_side"><a href="/hotels"
+                                                            <div class="right_side"><a href="/booking-hotels"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -871,7 +871,7 @@
                                                                     <img src="images/star3.png" alt="">
                                                                 </div>
                                                             </div>
-                                                            <div class="right_side"><a href="/hotels"
+                                                            <div class="right_side"><a href="/booking-hotels"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -905,7 +905,7 @@
                                                                     <img src="images/star3.png" alt="">
                                                                 </div>
                                                             </div>
-                                                            <div class="right_side"><a href="/hotels"
+                                                            <div class="right_side"><a href="/booking-hotels"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -939,7 +939,7 @@
                                                                     <img src="images/star3.png" alt="">
                                                                 </div>
                                                             </div>
-                                                            <div class="right_side"><a href="/hotels"
+                                                            <div class="right_side"><a href="/booking-hotels"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -978,7 +978,7 @@
                                                                     <img src="images/star3.png" alt="">
                                                                 </div>
                                                             </div>
-                                                            <div class="right_side"><a href="/hotels"
+                                                            <div class="right_side"><a href="/booking-hotels"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -1012,7 +1012,7 @@
                                                                     <img src="images/star3.png" alt="">
                                                                 </div>
                                                             </div>
-                                                            <div class="right_side"><a href="/hotels"
+                                                            <div class="right_side"><a href="/booking-hotels"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>
@@ -1046,7 +1046,7 @@
                                                                     <img src="images/star3.png" alt="">
                                                                 </div>
                                                             </div>
-                                                            <div class="right_side"><a href="/hotels"
+                                                            <div class="right_side"><a href="/booking-hotels"
                                                                                        class="btn-default btn1">Details</a>
                                                             </div>
                                                         </div>

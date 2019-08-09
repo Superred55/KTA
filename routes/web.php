@@ -35,4 +35,28 @@ Route::get('/tours-checkout', function () {
     return view('tours-checkout');
 });
 
+Route::get('/hotels', function () {
+    return view('hotels');
+});
+
+Route::get('/booking-hotels', function () {
+    return view('booking-hotels');
+});
+
+Route::get('/hotels-checkout', function () {
+    return view('hotels-checkout');
+});
+
+Route::get('/blog', function () {
+    return view('blog');
+});
+
+Route::get('/post', function () {
+    return view('post');
+});
+
+Route::get('/contacts', function () {
+    return view('contacts');
+});
+
 

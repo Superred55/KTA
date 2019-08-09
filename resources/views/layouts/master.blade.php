@@ -78,7 +78,7 @@
                                     </li>
 
 
-                                    <li><a href="hotels.html" style="font-size: 18px;">Отели</a>
+                                    <li><a href="/hotels" style="font-size: 18px;">Отели</a>
             
                                     </li>
                                  <li><a href="cruises.html" style="font-size: 18px;">Круизы</a>
@@ -88,9 +88,9 @@
                                 </ul>
                             </li>
 
-                            <li ><a href="#" style="font-size: 18px;" >Наш Блог</a>
+                            <li ><a href="/blog" style="font-size: 18px;" >Наш Блог</a>
                             </li>
-                            <li><a href="contacts.html" style="font-size: 18px;">Контакты</a></li>
+                            <li><a href="/contacts" style="font-size: 18px;">Контакты</a></li>
                         </ul>
                     </div>
                 </div>
