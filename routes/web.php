@@ -39,12 +39,24 @@ Route::get('/hotels', function () {
     return view('hotels');
 });
 
-Route::get('/booking-hotels', function () {
-    return view('booking-hotels');
+Route::get('/booking-hotel', function () {
+    return view('booking-hotel');
 });
 
-Route::get('/hotels-checkout', function () {
-    return view('hotels-checkout');
+Route::get('/hotel-checkout', function () {
+    return view('hotel-checkout');
+});
+
+Route::get('/cruises', function () {
+    return view('cruises');
+});
+
+Route::get('/booking-cruise', function () {
+    return view('booking-cruise');
+});
+
+Route::get('/cruise-checkout', function () {
+    return view('cruise-checkout');
 });
 
 Route::get('/blog', function () {

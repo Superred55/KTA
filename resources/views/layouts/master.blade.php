@@ -81,7 +81,7 @@
                                     <li><a href="/hotels" style="font-size: 18px;">Отели</a>
             
                                     </li>
-                                 <li><a href="cruises.html" style="font-size: 18px;">Круизы</a>
+                                 <li><a href="/cruises" style="font-size: 18px;">Круизы</a>
                                        
                 
                                     </li>

@@ -1,6 +1,6 @@
- @extends("layouts.master")
+@extends("layouts.master")
 @section("content")
- <div id="google_map2_wrapper">
+  <div id="google_map2_wrapper">
         <div id="google_map2"></div>
     </div>
 
@@ -19,27 +19,67 @@
                 <div class="col-sm-3">
                     <div class="sidebar-block">
                         <form action="javascript;">
-                            <h3>SHERATON HOTEL</h3>
-                            <span class="star-rating-left">
-                                <img src="images/star1.png">
-                                <img src="images/star1.png">
-                                <img src="images/star1.png">
-                                <img src="images/star1.png">
-                                <img src="images/star1.png">
-                            </span>
-                            <span class="location">
-                                Prague, Czech
+                            <h3>7 Days BAHAMAS</h3>
+
+                            <span class="similar">
+                                Port Baltimor, USA
                             </span>
 
                             <div class="clearfix"></div>
                             <div style="margin-top:10px;"></div>
 
+                            <div class="col-sm-12 no-padding">
+                                <div class="input1_wrapper">
+                                    <label>All destinations:</label>
+
+                                    <div class="input2_inner">
+                                        <input type="text" class="input" value="Caribbean/Bahamas">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-sm-12 no-padding margin-top">
+                                <div class="input1_wrapper">
+                                    <label>All ports:</label>
+
+                                    <div class="input2_inner">
+                                        <input type="text" class="input" value="Baltimore">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-sm-12 no-padding margin-top">
+                                <div class="input1_wrapper">
+                                    <label>All ships:</label>
+
+                                    <div class="input2_inner">
+                                        <input type="text" class="input" value="Carnival Pride">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-sm-12 no-padding margin-top">
+                                <div class="select1_wrapper">
+                                    <label>Cabin:</label>
+
+                                    <div class="select1_inner">
+                                        <select class="select2 select" style="width: 100%">
+                                            <option value="1">Inside</option>
+                                            <option value="2">OceanView</option>
+                                            <option value="3">Balcony</option>
+                                            <option value="4">Suite</option>
+
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
                             <div class="col-sm-12 no-padding margin-top">
                                 <div class="input1_wrapper">
                                     <label>Check-In:</label>
 
                                     <div class="input1_inner">
-                                        <input type="text" class="input" value="16/07/2014" disabled>
+                                        <input type="text" class="input datepicker" value="16/07/2014">
                                     </div>
                                 </div>
                             </div>
@@ -49,20 +89,17 @@
                                     <label>Check-Out:</label>
 
                                     <div class="input1_inner">
-                                        <input type="text" class="input" value="26/07/2014" disabled>
+                                        <input type="text" class="input datepicker" value="26/07/2014">
                                     </div>
                                 </div>
                             </div>
                             <div class="clearfix"></div>
-                            <span class="nights">10-night stay</span>
-
-                            <div class="clearfix"></div>
                             <div class="col-sm-12 no-padding margin-top">
                                 <div class="input1_wrapper">
-                                    <label class="col-md-6" style="padding-left:0;padding-top:12px;">Rooms:</label>
+                                    <label class="col-md-6" style="padding-left:0;padding-top:12px;">Cabin:</label>
 
                                     <div class="input2_inner col-md-6" style="padding-right:0;padding-left:0;">
-                                        <input type="text" class="input" value="1" disabled>
+                                        <input type="text" class="input" value="1">
                                     </div>
                                 </div>
                             </div>
@@ -72,7 +109,7 @@
                                     <label class="col-md-6" style="padding-left:0;padding-top:12px;">Adults:</label>
 
                                     <div class="input2_inner col-md-6" style="padding-right:0;padding-left:0;">
-                                        <input type="text" class="input" value="2" disabled>
+                                        <input type="text" class="form-control" value="2">
                                     </div>
                                 </div>
                             </div>
@@ -82,10 +119,12 @@
                                     <label class="col-md-6" style="padding-left:0;padding-top:12px;">Children:</label>
 
                                     <div class="input2_inner col-md-6" style="padding-right:0;padding-left:0;">
-                                        <input type="text" class="input" value="0" disabled>
+                                        <input type="text" class="input" value="0">
                                     </div>
                                 </div>
                             </div>
+
+
                             <div class="clearfix"></div>
                             <div class="col-sm-12 no-padding margin-top">
                                 <div class="input1_wrapper">
@@ -93,7 +132,7 @@
                                            style="padding-left:0;padding-top:12px;font-weight:500;color:#464646;font-size:13px;">Price:</label>
 
                                     <div class="col-md-6 price-left" style="padding-right:0;padding-left:0;">
-                                        <span class="red">$150</span>/<span class="blue">night</span>
+                                        <span class="red">$729</span>/<span class="blue">Cabin</span>
                                     </div>
                                 </div>
                             </div>
@@ -105,14 +144,14 @@
                                         Booking:</label>
 
                                     <div class="col-md-6 price-total-left" style="padding-right:0;padding-left:0;">
-                                        <span class="red">$1500</span>
+                                        <span class="red">$729</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="clearfix"></div>
                             <div class="no-padding margin-top text-center" style="margin-top:30px;">
-                                <a href="booking-hotel-page.html" class="btn btn-default btn-cf-submit3"
-                                   style="width:100%;">RESERVE
+                                <a href="/cruise-checkout" class="btn btn-default btn-cf-submit3"
+                                   style="width:100%;">BOOKING
                                     NOW</a>
                             </div>
                             <div class="clearfix"></div>
@@ -167,17 +206,10 @@
 
 
                         <div class="post post-full">
-                            <h3 class="hch">SHERATON Prague</h3>
-                            <span class="star-rating">
-                                <img src="images/star1.png">
-                                <img src="images/star1.png">
-                                <img src="images/star1.png">
-                                <img src="images/star1.png">
-                                <img src="images/star1.png">
-                            </span>
+                            <h3 class="hch">7 Days BAHAMAS</h3>
 
                             <div class="clearfix"></div>
-                            <p class="address">Na Strzi 32, Prague, 14000, Czech Republic</p>
+                            <p class="address">Carnival cruise line, Port Baltimor, USA</p>
 
                             <div class="post-header">
                                 <div class="post-slide">
@@ -244,7 +276,7 @@
                                         <span class="option-booking">
                                             <i class="free-wifi"></i> <span>Free WIFI</span>
                                             <i class="breakfast"></i> <span>Breakfast included</span>
-                                            <i class="airport-shuttle"></i> <span>Airport shuttle</span>
+
                                             <i class="parking"></i> <span>Parking</span>
                                             <i class="no-smoking"></i> <span>No smoking room</span>
                                         </span>
@@ -474,4 +506,5 @@
 
         </div>
     </div>
+
 @endsection

@@ -299,7 +299,7 @@
 
                                 </div>
                                 <div class="post-story-link">
-                                    <a href="post.html" class="btn-default btn4">view post</a>
+                                    <a href="/post" class="btn-default btn4">view post</a>
                                 </div>
                             </div>
                         </div>
