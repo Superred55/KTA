@@ -15,10 +15,10 @@
                                         <ul>
                                             <li>
                                                 <div class="slider">
-                                                    <div class="slider_inner">
-                                                        <div class="txt1"><span>Welcome To Our</span></div>
-                                                        <div class="txt2"><span>TRAVEL AGENCY</span></div>
-                                                        <div class="txt3"><span>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod.</span>
+                                                    <div class="slider_inner" >
+                                                        <div class="txt1"><span>Добро пожаловать на наш</span></div>
+                                                        <div class="txt2"><span>сайт KazTravelAlmaty</span></div>
+                                                        <div class="txt3"><span>Вас ждут удивительный путешествия</span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -26,9 +26,9 @@
                                             <li>
                                                 <div class="slider">
                                                     <div class="slider_inner">
-                                                        <div class="txt1"><span>7 - Day Tour</span></div>
-                                                        <div class="txt2"><span>AMAZING CARIBBEAN</span></div>
-                                                        <div class="txt3"><span>Lorem ipsum dolor eleifend option congue nihil imperdiet doming id quod.</span>
+                                                        <div class="txt1"><span>Горячие туры</span></div>
+                                                        <div class="txt2"><span>В Дубай</span></div>
+                                                        <div class="txt3"><span>Проведите самыу лучшие дни</span>
                                                         </div>
                                                     </div>
                                                 </div>
