@@ -6,7 +6,7 @@
 
     <div class="breadcrumbs1_wrapper">
         <div class="container">
-            <div class="breadcrumbs1"><a href="index.html">Home</a><span>/</span>Contacts</div>
+            <div class="breadcrumbs1"><a href="index.html">Главная</a><span>/</span>Контакты</div>
         </div>
     </div>
 
@@ -17,33 +17,29 @@
             <div class="row">
                 <div class="col-sm-6">
 
-                    <h3>CONTACT INFO</h3>
+                    <h3>Контактные данные</h3>
 
                     <p>
-                        Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel
-                        illum dolore eu
-                        feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent
-                        luptatum zzril
-                        delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend
-                        option
-                        congue nihil imperdiet doming id quod mazim placerat facer possim assum
+                        Описание
                     </p>
 
                     <br>
 
-                    <h4>ADDRESS</h4>
+                    <h4>Адресс</h4>
 
                     <p>
-                        795 Fake Ave, Door 6<br>
-                        Wonderland, CA 94107, USA<br>
-                        <a href="#">info@yourdomain.com</a>
+                        <br>
+                        Алматы<br>
+                        <a href="#">kazalmaty@travelagency.com</a>
                     </p>
 
-                    <h4>PHONE</h4>
+                    <h4>ТЕЛЕФОНЫ</h4>
 
                     <p>
-                        +440 875369208<br>
-                        +440 353363114
+                       +7 (727) 222 0602<br>
+                       +7 (727) 367 0312<br>
+                       +7 (727) 327 9918
+                        
                     </p>
 
                     <div class="social3_wrapper">
@@ -61,15 +57,15 @@
                 </div>
                 <div class="col-sm-6">
 
-                    <h3>CONTACT FORM</h3>
+                    <h3>ОБРАТНАЯ СВЯЗЬ</h3>
 
                     <div id="note"></div>
                     <div id="fields">
                         <form id="ajax-contact-form" class="form-horizontal" action="javascript:alert('success!');">
 
                             <div class="form-group">
-                                <label for="inputName">Your Name</label>
-                                <input type="text" class="form-control" id="inputName" name="name" value="Full Name"
+                                <label for="inputName">Ваше Имя</label>
+                                <input type="text" class="form-control" id="inputName" name="name" value="ФИО"
                                        onBlur="if(this.value=='') this.value='Full Name'"
                                        onFocus="if(this.value =='Full Name' ) this.value=''">
                             </div>
@@ -77,22 +73,22 @@
                             <div class="form-group">
                                 <label for="inputEmail">Email</label>
                                 <input type="text" class="form-control" id="inputEmail" name="email"
-                                       value="E-mail address" onBlur="if(this.value=='') this.value='E-mail address'"
-                                       onFocus="if(this.value =='E-mail address' ) this.value=''">
+                                       value="E-mail" onBlur="if(this.value=='') this.value='E-mail'"
+                                       onFocus="if(this.value =='E-mail' ) this.value=''">
                             </div>
 
 
                             <div class="row">
                                 <div class="col-sm-12">
                                     <div class="form-group">
-                                        <label for="inputMessage">Your Message</label>
+                                        <label for="inputMessage">Ваше сообщение</label>
                                         <textarea class="form-control" rows="7" id="inputMessage" name="content"
                                                   onBlur="if(this.value=='') this.value='Message'"
-                                                  onFocus="if(this.value =='Message' ) this.value=''">Message</textarea>
+                                                  onFocus="if(this.value =='Message' ) this.value=''">Сообщение</textarea>
                                     </div>
                                 </div>
                             </div>
-                            <button type="submit" class="btn-default btn-cf-submit">send message</button>
+                            <button type="submit" class="btn-default btn-cf-submit">Отправить сообщение</button>
                         </form>
                     </div>
 
