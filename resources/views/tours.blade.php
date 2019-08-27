@@ -20,7 +20,7 @@
                         <form action="javascript:void(0);">
                             <div class="col-sm-12 no-padding">
                                 <div class="input1_wrapper">
-                                    <label>Flying from:</label>
+                                    <label>Вылет из:</label>
 
                                     <div class="input2_inner">
                                         <input type="text" class="input" value="Prague, Vaclav Havel ">
@@ -30,7 +30,7 @@
                             <div class="clearfix"></div>
                             <div class="col-sm-12 no-padding margin-top">
                                 <div class="input1_wrapper">
-                                    <label>To:</label>
+                                    <label>До:</label>
 
                                     <div class="input2_inner">
                                         <input type="text" class="input" value="New-York, John F. Kennedy Intl.">
@@ -40,7 +40,7 @@
                             <div class="clearfix"></div>
                             <div class="col-sm-12 no-padding margin-top">
                                 <div class="input1_wrapper">
-                                    <label>Departing:</label>
+                                    <label>Дата вылета:</label>
 
                                     <div class="input1_inner">
                                         <input type="text" class="input datepicker" value="16/07/2014">
@@ -50,7 +50,7 @@
                             <div class="clearfix"></div>
                             <div class="col-sm-12 no-padding margin-top">
                                 <div class="input1_wrapper">
-                                    <label>Returning:</label>
+                                    <label>Дата прилета:</label>
 
                                     <div class="input1_inner">
                                         <input type="text" class="input datepicker" value="26/07/2014">
@@ -60,7 +60,7 @@
                             <div class="clearfix"></div>
                             <div class="col-sm-12 no-padding margin-top">
                                 <div class="input2_wrapper">
-                                    <label class="col-md-6" style="padding-left:0;padding-top:12px;">Adults:</label>
+                                    <label class="col-md-6" style="padding-left:0;padding-top:12px;">Взрослых:</label>
 
                                     <div class="input2_inner col-md-6" style="padding-right:0;padding-left:0;">
                                         <input type="text" class="form-control" value="2">
@@ -70,7 +70,7 @@
                             <div class="clearfix"></div>
                             <div class="col-sm-12 no-padding margin-top">
                                 <div class="input1_wrapper">
-                                    <label class="col-md-6" style="padding-left:0;padding-top:12px;">Children:</label>
+                                    <label class="col-md-6" style="padding-left:0;padding-top:12px;">Детей:</label>
 
                                     <div class="input2_inner col-md-6" style="padding-right:0;padding-left:0;">
                                         <input type="text" class="input" value="0">
@@ -80,7 +80,7 @@
                             <div class="clearfix"></div>
                             <div class="col-sm-12 no-padding margin-top">
                                 <div class="select1_wrapper">
-                                    <label>Cabin:</label>
+                                    <label>Класс:</label>
 
                                     <div class="select1_inner">
                                         <select class="select2 select" style="width: 100%">
@@ -97,7 +97,7 @@
                             <label class="col-md-6" style="padding-left:0;padding-top:12px;"></label>
 
                             <div class="no-padding margin-top col-md-6 text-right" style="margin-top:30px;">
-                                <button class="btn btn-default btn-cf-submit" style="width:100%;">SEARCH</button>
+                                <button class="btn btn-default btn-cf-submit" style="width:100%;">Искать</button>
                             </div>
                             <div class="clearfix"></div>
 
@@ -108,7 +108,7 @@
                     <div class="margin-top"></div>
 
                     <div class="star_rating_wrapper">
-                        <div class="title">Top Filters</div>
+                        <div class="title">Фильтры</div>
                         <div class="content">
                             <div class="star_rating">
                                 <form>
@@ -116,19 +116,19 @@
                                         <input id="checkbox-1" class="checkbox1-custom" name="checkbox-1"
                                                type="checkbox" checked>
                                         <label for="checkbox-1"
-                                               class="checkbox1-custom-label"><span>nonstop</span></label>
+                                               class="checkbox1-custom-label"><span>Без остановок</span></label>
                                     </div>
                                     <div>
                                         <input id="checkbox-2" class="checkbox1-custom" name="checkbox-2"
                                                type="checkbox">
                                         <label for="checkbox-2"
-                                               class="checkbox1-custom-label"><span>1 Stop</span></label>
+                                               class="checkbox1-custom-label"><span>1 остановка</span></label>
                                     </div>
                                     <div>
                                         <input id="checkbox-3" class="checkbox1-custom" name="checkbox-3"
                                                type="checkbox">
                                         <label for="checkbox-3"
-                                               class="checkbox1-custom-label"><span>2+ Stops</span></label>
+                                               class="checkbox1-custom-label"><span>2+ остановок</span></label>
                                     </div>
                                 </form>
                             </div>
@@ -147,22 +147,14 @@
                                         <ul>
                                             <li>
                                                 <div class="sm_slider_inner">
-                                                    <div class="txt1">Lorem ipsum dolor sit amet, consectetuer
-                                                        adipiscing elit, sed diam
-                                                        nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam
-                                                        erat volutpat. Ut
-                                                        wisi enim ad minim veniam.
+                                                    <div class="txt1">Отзыв
                                                     </div>
                                                     <div class="txt2">George Smith</div>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="sm_slider_inner">
-                                                    <div class="txt1">Lorem ipsum dolor sit amet, consectetuer
-                                                        adipiscing elit, sed diam
-                                                        nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam
-                                                        erat volutpat. Ut
-                                                        wisi enim ad minim veniam.
+                                                    <div class="txt1">Отзыв
                                                     </div>
                                                     <div class="txt2">Adam Parker</div>
                                                 </div>

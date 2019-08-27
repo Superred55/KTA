@@ -113,16 +113,16 @@
                                    Наше турагенство описание.
                     </p>
                     <p>
-                        <a href="#" class="btn-default btn2">Read More</a>
+                        <a href="#" class="btn-default btn2">Узнать подробнее</a>
                     </p>
                 </div>
                 <div class="col-sm-4">
                     <div class="bot1_title">Специальные
                     предложения</div>
                     <ul class="ul1">
-                        <li><a href="#">First Class Flights</a></li>
-                        <li><a href="#">Accessible Travel</a></li>
-                        <li><a href="#">Amazing Cruises</a></li>
+                        <li><a href="#">Полеты первым классом</a></li>
+                        <li><a href="#">Доступные путешествия</a></li>
+                        <li><a href="#">Незабываемые круизы</a></li>
                     </ul>
 
                     <div class="social2_wrapper">
@@ -139,15 +139,15 @@
                 </div>
             
                 <div class="col-sm-5">
-                    <div class="bot1_title">Newsletter</div>
+                    <div class="bot1_title">Новостной блог</div>
                     <div class="newsletter_block">
-                        <div class="txt1">Inspiration, ideas, news and your feedback.</div>
+                        <div class="txt1">Идеи, предложения , обратная связь</div>
                         <div class="newsletter-wrapper clearfix">
                             <form class="newsletter" action="javascript:;">
                                 <input type="text" name="s" value='Email Address'
                                        onBlur="if(this.value=='') this.value='Email Address'"
                                        onFocus="if(this.value =='Email Address' ) this.value=''">
-                                <a href="#" class="btn-default btn3">SUBMIT</a>
+                                <a href="#" class="btn-default btn3">Отправить</a>
                             </form>
                         </div>
                     </div>
@@ -157,7 +157,7 @@
                                     </br>
                                         +7 727 327 9918
                                     </div>
-                    <div class="support1"><a href="#">support@templates-support.com</a></div>
+                    <div class="support1"><a href="#">kazalmaty@travelagency.com</a></div>
                 </div>
             </div>
         </div>
@@ -167,8 +167,7 @@
         <div class="container">
             <div class="left_side">
                 Copyright © 2019 <strong>KazTravelAlmaty</strong> <span>|</span> <a href="#">Privacy Policy</a> <span>|</span>
-                <a href="#">About Us</a> <span>|</span> <a href="#">FAQ</a> <span>|</span> <a href="#">Contact
-                Support</a>
+                <a href="#">О нас</a> <span>|</span> <a href="#">FAQ</a> <span>|</span> <a href="#">Связаться с поддержкой</a>
             </div>
             <div class="right_side">Designed by <strong>Vision Internet Marketing</strong></div>
         </div>

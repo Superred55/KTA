@@ -2,7 +2,7 @@
 
 @section ("content")
 
-<div id="slider_wrapper">
+<div id="slider_wrapper" style="background-image: url(../images/maldives2.jpg);">
         <div class="container">
             <div id="slider_inner">
                 <div class="">
@@ -36,9 +36,9 @@
                                             <li>
                                                 <div class="slider">
                                                     <div class="slider_inner">
-                                                        <div class="txt1"><span>5 Days In</span></div>
-                                                        <div class="txt2"><span>PARIS (Capital Of World)</span></div>
-                                                        <div class="txt3"><span>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod.</span>
+                                                        <div class="txt1"><span>5 дней в </span></div>
+                                                        <div class="txt2"><span>Египте</span></div>
+                                                        <div class="txt3"><span>Удивительные путешествия</span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -46,9 +46,9 @@
                                             <li>
                                                 <div class="slider">
                                                     <div class="slider_inner">
-                                                        <div class="txt1"><span>12 - Day Cruises</span></div>
-                                                        <div class="txt2"><span>FROM GREECE TO SPAIN</span></div>
-                                                        <div class="txt3"><span>MEDITERRANEAN - 12 - Day Cruises By "GRAND VICTORIA III" Cruise Liner.</span>
+                                                        <div class="txt1"><span>12 дней в Круизе</span></div>
+                                                        <div class="txt2"><span>из Греции до Испании</span></div>
+                                                        <div class="txt3"><span>12 дней круиза на корабле Гранд Виктория</span>
                                                         </div>
 
                                                     </div>
@@ -92,7 +92,7 @@
                                             <label>Вылет из:</label>
                                             <div class="select1_inner">
                                                 <select class="select2 select" style="width: 100%">
-                                                    <option value="1">City or Airport</option>
+                                                    <option value="1">Город или Аэропорт</option>
                                                     <option value="2">Alaska</option>
                                                     <option value="3">Bahamas</option>
                                                     <option value="4">Bermuda</option>
@@ -109,7 +109,7 @@
                                             <label>Куда:</label>
                                             <div class="select1_inner">
                                                 <select class="select2 select" style="width: 100%">
-                                                    <option value="1">City or Airport</option>
+                                                    <option value="1">Город или Аэропорт</option>
                                                     <option value="2">Alaska</option>
                                                     <option value="3">Bahamas</option>
                                                     <option value="4">Bermuda</option>
@@ -187,7 +187,7 @@
                                             <label>Город или отель:</label>
                                             <div class="select1_inner">
                                                 <select class="select2 select" style="width: 100%">
-                                                    <option value="1">Enter a destination or hotel name</option>
+                                                    <option value="1">Выберите место или имя отеля</option>
                                                     <option value="2">Lorem ipsum dolor sit amet</option>
                                                     <option value="3">Duis autem vel eum</option>
                                                     <option value="4">Ut wisi enim ad minim veniam</option>
@@ -220,7 +220,7 @@
                                             <label>Взрослых:</label>
                                             <div class="select1_inner">
                                                 <select class="select2 select" style="width: 100%">
-                                                    <option value="1">Room for 1 adult</option>
+                                                    <option value="1">Комната на 1 взросолого</option>
                                                     <option value="2">Room for 2 adult</option>
                                                     <option value="3">Room for 3 adult</option>
                                                     <option value="4">Room for 4 adult</option>
@@ -248,7 +248,7 @@
                                             <label>Плыть до:</label>
                                             <div class="select1_inner">
                                                 <select class="select2 select" style="width: 100%">
-                                                    <option value="1">All destinations</option>
+                                                    <option value="1">Все города</option>
                                                     <option value="2">Alaska</option>
                                                     <option value="3">Bahamas</option>
                                                     <option value="4">Bermuda</option>
@@ -265,7 +265,7 @@
                                             <label>Плыть из:</label>
                                             <div class="select1_inner">
                                                 <select class="select2 select" style="width: 100%">
-                                                    <option value="1">All ports</option>
+                                                    <option value="1">Все порты</option>
                                                     <option value="2">Alaska</option>
                                                     <option value="3">Bahamas</option>
                                                     <option value="4">Bermuda</option>
@@ -350,8 +350,7 @@
                                 </figure>
                                 <div class="caption">
                                     <div class="txt1">Удивительные путешествия</div>
-                                    <div class="txt2">Nam liber tempor cum soluta nobis eleifend option congue nihil
-                                        imperdiet doming id quod mazim.
+                                    <div class="txt2">Описание
                                     </div>
                                     <div class="txt3">Узнать подробнее</div>
                                 </div>
@@ -369,8 +368,7 @@
                                 </figure>
                                 <div class="caption">
                                     <div class="txt1">Узнавайте новое</div>
-                                    <div class="txt2">Nam liber tempor cum soluta nobis eleifend option congue nihil
-                                        imperdiet doming id quod mazim.
+                                    <div class="txt2">Описание
                                     </div>
                                     <div class="txt3">Узнать подробнее</div>
                                 </div>
@@ -388,8 +386,7 @@
                                 </figure>
                                 <div class="caption">
                                     <div class="txt1">Сделайте свой тур</div>
-                                    <div class="txt2">Nam liber tempor cum soluta nobis eleifend option congue nihil
-                                        imperdiet doming id quod mazim.
+                                    <div class="txt2">Описание
                                     </div>
                                     <div class="txt3">Узнать подробнее</div>
                                 </div>
@@ -407,8 +404,7 @@
                                 </figure>
                                 <div class="caption">
                                     <div class="txt1">Отличная поддержка</div>
-                                    <div class="txt2">Nam liber tempor cum soluta nobis eleifend option congue nihil
-                                        imperdiet doming id quod mazim.
+                                    <div class="txt2">Описание
                                     </div>
                                     <div class="txt3">Узнать подробнее</div>
                                 </div>
@@ -429,14 +425,12 @@
                 <div class="row">
                     <div class="col-sm-10 animated">
                         <div class="txt1">Специальное предложение</div>
-                        <div class="txt2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-                            nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim
-                            veniam, quis nostrud exerci tation ullamcorper.
+                        <div class="txt2">Описание
                         </div>
-                        <div class="txt3">From: Khazbegi (Goergia) <strong>$159.00</strong><span>person</span></div>
+                        <div class="txt3">В Турцию <strong>от 140000 тг</strong><span>на 1 взрослого</span></div>
                     </div>
                     <div class="col-sm-2">
-                        <a href="#" class="btn-default btn0">Details</a>
+                        <a href="#" class="btn-default btn0">Подробнее</a>
                     </div>
                 </div>
 
@@ -449,8 +443,7 @@
 
             <h2 class="animated">Популярные круизы</h2>
 
-            <div class="title1 animated">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                euismod <br>tincidunt ut laoreet dolore magna aliquam erat volutpat.
+            <div class="title1 animated">Описание<br>
             </div>
 
             <br><br>
@@ -723,20 +716,14 @@
                                             <ul>
                                                 <li>
                                                     <div class="sm_slider_inner">
-                                                        <div class="txt1">Lorem ipsum dolor sit amet, consectetuer
-                                                            adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-                                                            laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad
-                                                            minim veniam.
+                                                        <div class="txt1">Отзыв
                                                         </div>
                                                         <div class="txt2">George Smith</div>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div class="sm_slider_inner">
-                                                        <div class="txt1">Lorem ipsum dolor sit amet, consectetuer
-                                                            adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-                                                            laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad
-                                                            minim veniam.
+                                                        <div class="txt1">Отзыв
                                                         </div>
                                                         <div class="txt2">Adam Parker</div>
                                                     </div>
