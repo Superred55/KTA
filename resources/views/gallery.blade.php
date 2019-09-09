@@ -2,17 +2,9 @@
 @section("content")
 <body class="not-front page-gallery">
 
-  <div id="parallax2" class="parallax">
-        <div class="bg2 parallax-bg"></div>
-        <div class="overlay"></div>
-        <div class="parallax-content">
-            <div class="container">
-
-
-            </div>
-        </div>
+ <div id="google_map_wrapper" style="background-image: url(images/photo2.jpg); ">
+        <div id="google_map"></div>
     </div>
-
     <div class="breadcrumbs1_wrapper">
         <div class="container">
             <div class="breadcrumbs1"><a href="/">Главная</a><span>/</span>Галлерея</div>

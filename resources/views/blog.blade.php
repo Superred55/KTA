@@ -1,13 +1,8 @@
 @extends("layouts.master")
 @section("content")
-    <div id="parallax2" class="parallax" >
-        <div class="bg2 parallax-bg" ></div>
-        <div class="overlay"></div>
-        <div class="parallax-content">
-            <div class="container">
-
-
-            </div>
+    <div id="google_map_wrapper" style="background-image: url(images/photo2.jpg); ">
+        <div id="google_map"></div>
+    </div>
         </div>
     </div>
 

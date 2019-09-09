@@ -607,7 +607,7 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 
 
 .bg1 { background-image: url(../images/turkey.jpg); }
-.bg2 { background-image: url(../images/turkey.jpg ); }
+.bg2 {{asset{ background-image: url(../images/turkey.jpg ); }}}
 
 
 #parallax1{padding-top: 80px; padding-bottom: 80px; color: #fff;}
