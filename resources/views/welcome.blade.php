@@ -461,7 +461,7 @@
                                                     <div class="popular">
                                                         <div class="popular_inner">
                                                             <figure>
-                                                                <img src="http://placehold.it/370x232" alt=""
+                                                                <img src="images/bahamas.jpg" alt=""
                                                                      class="img-responsive">
                                                                 <div class="over">
                                                                     <div class="v1">Bahamas <span>17 Deal Offers</span>
@@ -489,8 +489,7 @@
                                                                         <div class="nums">- 18 Reviews</div>
                                                                     </div>
                                                                     <div class="right_side"><a href="#"
-                                                                                               class="btn-default btn1">See
-                                                                        All</a></div>
+                                                                                               class="btn-default btn1">Посмотреть все</a></div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -500,7 +499,7 @@
                                                     <div class="popular">
                                                         <div class="popular_inner">
                                                             <figure>
-                                                                <img src="http://placehold.it/370x232" alt=""
+                                                                <img src="images/bahamas.jpg" alt=""
                                                                      class="img-responsive">
                                                                 <div class="over">
                                                                     <div class="v1">Mediterranean
@@ -529,8 +528,7 @@
                                                                         <div class="nums">- 168 Reviews</div>
                                                                     </div>
                                                                     <div class="right_side"><a href="#"
-                                                                                               class="btn-default btn1">See
-                                                                        All</a></div>
+                                                                                               class="btn-default btn1">Посмотреть все</a></div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -540,7 +538,7 @@
                                                     <div class="popular">
                                                         <div class="popular_inner">
                                                             <figure>
-                                                                <img src="http://placehold.it/370x232" alt=""
+                                                                <img src="images/bahamas.jpg" alt=""
                                                                      class="img-responsive">
                                                                 <div class="over">
                                                                     <div class="v1">Greece <span>17 Deal Offers</span>
@@ -567,8 +565,7 @@
                                                                         <div class="nums">- 16 Reviews</div>
                                                                     </div>
                                                                     <div class="right_side"><a href="#"
-                                                                                               class="btn-default btn1">See
-                                                                        All</a></div>
+                                                                                               class="btn-default btn1">Посмотреть все</a></div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -578,7 +575,7 @@
                                                     <div class="popular">
                                                         <div class="popular_inner">
                                                             <figure>
-                                                                <img src="http://placehold.it/370x232" alt=""
+                                                                <img src="images/bahamas.jpg" alt=""
                                                                      class="img-responsive">
                                                                 <div class="over">
                                                                     <div class="v1">Bahamas <span>17 Deal Offers</span>
@@ -606,8 +603,7 @@
                                                                         <div class="nums">- 18 Reviews</div>
                                                                     </div>
                                                                     <div class="right_side"><a href="#"
-                                                                                               class="btn-default btn1">See
-                                                                        All</a></div>
+                                                                                               class="btn-default btn1">Посмотреть все</a></div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -617,7 +613,7 @@
                                                     <div class="popular">
                                                         <div class="popular_inner">
                                                             <figure>
-                                                                <img src="http://placehold.it/370x232" alt=""
+                                                                <img src="images/bahamas.jpg" alt=""
                                                                      class="img-responsive">
                                                                 <div class="over">
                                                                     <div class="v1">Mediterranean
@@ -646,8 +642,7 @@
                                                                         <div class="nums">- 168 Reviews</div>
                                                                     </div>
                                                                     <div class="right_side"><a href="#"
-                                                                                               class="btn-default btn1">See
-                                                                        All</a></div>
+                                                                                               class="btn-default btn1">Посмотреть все</a></div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -657,7 +652,7 @@
                                                     <div class="popular">
                                                         <div class="popular_inner">
                                                             <figure>
-                                                                <img src="http://placehold.it/370x232" alt=""
+                                                                <img src="images/bahamas.jpg" alt=""
                                                                      class="img-responsive">
                                                                 <div class="over">
                                                                     <div class="v1">Greece <span>17 Deal Offers</span>
@@ -684,8 +679,7 @@
                                                                         <div class="nums">- 16 Reviews</div>
                                                                     </div>
                                                                     <div class="right_side"><a href="#"
-                                                                                               class="btn-default btn1">See
-                                                                        All</a></div>
+                                                                                               class="btn-default btn1">Посмотреть все</a></div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -743,8 +737,8 @@
                         <div class="thumbnail clearfix">
                             <a href="#">
                                 <figure>
-                                    <img src="http://placehold.it/170x95" alt="" class="img1 img-responsive">
-                                    <img src="http://placehold.it/170x95" alt="" class="img2 img-responsive">
+                                    <img src="images/Kazunion.png" alt="" class="img1 img-responsive">
+                                    <img src="images/Kazunion.png" alt="" class="img2 img-responsive">
                                 </figure>
                             </a>
                         </div>
@@ -755,8 +749,8 @@
                         <div class="thumbnail clearfix">
                             <a href="#">
                                 <figure>
-                                    <img src="http://placehold.it/170x95" alt="" class="img1 img-responsive">
-                                    <img src="http://placehold.it/170x95" alt="" class="img2 img-responsive">
+                                    <img src="images/Kazunion.png" alt="" class="img1 img-responsive">
+                                    <img src="images/Kazunion.png" alt="" class="img2 img-responsive">
                                 </figure>
                             </a>
                         </div>
@@ -767,8 +761,8 @@
                         <div class="thumbnail clearfix">
                             <a href="#">
                                 <figure>
-                                    <img src="http://placehold.it/170x95" alt="" class="img1 img-responsive">
-                                    <img src="http://placehold.it/170x95" alt="" class="img2 img-responsive">
+                                    <img src="images/Kazunion.png" alt="" class="img1 img-responsive">
+                                    <img src="images/Kazunion.png" alt="" class="img2 img-responsive">
                                 </figure>
                             </a>
                         </div>
@@ -779,8 +773,8 @@
                         <div class="thumbnail clearfix">
                             <a href="#">
                                 <figure>
-                                    <img src="http://placehold.it/170x95" alt="" class="img1 img-responsive">
-                                    <img src="http://placehold.it/170x95" alt="" class="img2 img-responsive">
+                                    <img src="images/Kazunion.png" alt="" class="img1 img-responsive">
+                                    <img src="images/Kazunion.png" alt="" class="img2 img-responsive">
                                 </figure>
                             </a>
                         </div>
@@ -791,8 +785,8 @@
                         <div class="thumbnail clearfix">
                             <a href="#">
                                 <figure>
-                                    <img src="http://placehold.it/170x95" alt="" class="img1 img-responsive">
-                                    <img src="http://placehold.it/170x95" alt="" class="img2 img-responsive">
+                                    <img src="images/Kazunion.png" alt="" class="img1 img-responsive">
+                                    <img src="images/Kazunion.png" alt="" class="img2 img-responsive">
                                 </figure>
                             </a>
                         </div>
@@ -803,8 +797,8 @@
                         <div class="thumbnail clearfix">
                             <a href="#">
                                 <figure>
-                                    <img src="http://placehold.it/170x95" alt="" class="img1 img-responsive">
-                                    <img src="http://placehold.it/170x95" alt="" class="img2 img-responsive">
+                                    <img src="images/Kazunion.png" alt="" class="img1 img-responsive">
+                                    <img src="images/Kazunion.png" alt="" class="img2 img-responsive">
                                 </figure>
                             </a>
                         </div>

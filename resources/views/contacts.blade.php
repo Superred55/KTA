@@ -1,6 +1,6 @@
 @extends("layouts.master")
 @section("content")
-    <div id="google_map_wrapper">
+    <div id="google_map_wrapper" style="background-image: url(images/photo2.jpg); ">
         <div id="google_map"></div>
     </div>
 

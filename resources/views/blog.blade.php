@@ -1,7 +1,7 @@
 @extends("layouts.master")
 @section("content")
-    <div id="parallax2" class="parallax">
-        <div class="bg2 parallax-bg"></div>
+    <div id="parallax2" class="parallax" style="background-image: url(images/photo3.jpg);">
+        <div class="bg2 parallax-bg" ></div>
         <div class="overlay"></div>
         <div class="parallax-content">
             <div class="container">

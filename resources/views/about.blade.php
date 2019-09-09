@@ -2,7 +2,7 @@
 
 
 @section("content")
- <div class="page_banner"></div>
+ <div class="page_banner" style="background-image: url(images/photo1.jpg);"></div>
 
     <div class="breadcrumbs1_wrapper">
         <div class="container">
@@ -10,20 +10,20 @@
         </div>
     </div>
 
+  
     <div id="why1">
         <div class="container">
 
-            <h2 class="animated">WHY WE ARE THE BEST</h2>
+            <h2 class="animated">Наши преимущества</h2>
 
-            <div class="title1 animated">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                euismod <br>tincidunt ut laoreet dolore magna aliquam erat volutpat.
+            <div class="title1 animated">
             </div>
 
             <br><br>
 
             <div class="row">
                 <div class="col-sm-3">
-                    <div class="thumb2 animated">
+                    <div class="thumb2 animated" data-animation="flipInY" data-animation-delay="200">
                         <div class="thumbnail clearfix">
                             <a href="#">
                                 <figure class="">
@@ -31,18 +31,17 @@
                                     <img src="images/why1_hover.png" alt="" class="img2 img-responsive">
                                 </figure>
                                 <div class="caption">
-                                    <div class="txt1">Amazing Travel</div>
-                                    <div class="txt2">Nam liber tempor cum soluta nobis eleifend option congue nihil
-                                        imperdiet doming id quod mazim.
+                                    <div class="txt1">Удивительные путешествия</div>
+                                    <div class="txt2">Описание
                                     </div>
-                                    <div class="txt3">Read More</div>
+                                    <div class="txt3">Узнать подробнее</div>
                                 </div>
                             </a>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-3">
-                    <div class="thumb2 animated">
+                    <div class="thumb2 animated" data-animation="flipInY" data-animation-delay="300">
                         <div class="thumbnail clearfix">
                             <a href="#">
                                 <figure class="">
@@ -50,18 +49,17 @@
                                     <img src="images/why2_hover.png" alt="" class="img2 img-responsive">
                                 </figure>
                                 <div class="caption">
-                                    <div class="txt1">Discover</div>
-                                    <div class="txt2">Nam liber tempor cum soluta nobis eleifend option congue nihil
-                                        imperdiet doming id quod mazim.
+                                    <div class="txt1">Узнавайте новое</div>
+                                    <div class="txt2">Описание
                                     </div>
-                                    <div class="txt3">Read More</div>
+                                    <div class="txt3">Узнать подробнее</div>
                                 </div>
                             </a>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-3">
-                    <div class="thumb2 animated">
+                    <div class="thumb2 animated" data-animation="flipInY" data-animation-delay="400">
                         <div class="thumbnail clearfix">
                             <a href="#">
                                 <figure class="">
@@ -69,18 +67,17 @@
                                     <img src="images/why3_hover.png" alt="" class="img2 img-responsive">
                                 </figure>
                                 <div class="caption">
-                                    <div class="txt1">Book Your Trip</div>
-                                    <div class="txt2">Nam liber tempor cum soluta nobis eleifend option congue nihil
-                                        imperdiet doming id quod mazim.
+                                    <div class="txt1">Сделайте свой тур</div>
+                                    <div class="txt2">Описание
                                     </div>
-                                    <div class="txt3">Read More</div>
+                                    <div class="txt3">Узнать подробнее</div>
                                 </div>
                             </a>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-3">
-                    <div class="thumb2 animated">
+                    <div class="thumb2 animated" data-animation="flipInY" data-animation-delay="500">
                         <div class="thumbnail clearfix">
                             <a href="#">
                                 <figure class="">
@@ -88,11 +85,10 @@
                                     <img src="images/why4_hover.png" alt="" class="img2 img-responsive">
                                 </figure>
                                 <div class="caption">
-                                    <div class="txt1">Nice Support</div>
-                                    <div class="txt2">Nam liber tempor cum soluta nobis eleifend option congue nihil
-                                        imperdiet doming id quod mazim.
+                                    <div class="txt1">Отличная поддержка</div>
+                                    <div class="txt2">Описание
                                     </div>
-                                    <div class="txt3">Read More</div>
+                                    <div class="txt3">Узнать подробнее</div>
                                 </div>
                             </a>
                         </div>
@@ -107,8 +103,7 @@
 
             <h2 class="animated">ЧТО МЫ МОЖЕМ ПРЕДЛОЖИТЬ?</h2>
 
-            <div class="title1 animated">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                euismod <br>tincidunt ut laoreet dolore magna aliquam erat volutpat.
+            <div class="title1 animated">Текст
             </div>
 
             <br>
@@ -116,21 +111,16 @@
             <div class="row">
                 <div class="col-sm-6 animated">
                     <ul class="ul2">
-                        <li><a href="#">Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet;</a>
+                        <li><a href="#">Текст;</a>
                         </li>
-                        <li><a href="#">Option congue nihil imperdiet doming id quod mazim placerat facer;</a></li>
-                        <li><a href="#">Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes;</a></li>
-                        <li><a href="#">Investigationes demonstraverunt lectores</a></li>
+                        <li><a href="#">Текст;</a></li>
+                        <li><a href="#">Текст;</a></li>
+                        <li><a href="#">Текст</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-6 animated">
                     <blockquote class="blockquote0">
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-                        tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-                        nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-                        Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum. Ut wisi enim
-                        ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea
-                        commodo consequat.
+                        Текст
                     </blockquote>
                 </div>
             </div>
@@ -143,10 +133,7 @@
 
             <h2 class="animated">О НАШЕЙ КОМПАНИИ</h2>
 
-            <div class="title1 animated">Lorem ipsum dolor sit amet,
-                consectetuer adipiscing elit, sed diam nonummy nibh euismod <br>tincidunt ut laoreet dolore magna
-                aliquam erat
-                volutpat.
+            <div class="title1 animated">Текст
             </div>
 
             <br>
@@ -155,10 +142,7 @@
                 <div class="col-sm-12 col-md-6 col-md-push-6">
                     <div class="content">
                         <div class="txt1 animated">ТУРАГЕНСТВО</div>
-                        <div class="txt2 animated">Lorem ipsum dolor sit amet,
-                            consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore
-                            magna aliquam erat
-                            volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit.
+                        <div class="txt2 animated">Текст
                         </div>
 
 
@@ -202,8 +186,7 @@
 
             <h2 class="animated">НАША КОМАНДА</h2>
 
-            <div class="title1 animated">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                euismod <br>tincidunt ut laoreet dolore magna aliquam erat volutpat.
+            <div class="title1 animated">Текст
             </div>
 
             <br>
@@ -214,12 +197,11 @@
                         <div class="thumbnail clearfix">
                             <figure class="">
                                 <img src="http://placehold.it/262x257" alt="" class="img-responsive">
-                                <div class="over">Marketing Manager</div>
+                                <div class="over">Должность</div>
                             </figure>
                             <div class="caption">
-                                <div class="txt1">Jynda Martin</div>
-                                <div class="txt2">Nam liber tempor cum soluta nobis eleifend option congue nihil
-                                    imperdiet doming id quod mazim.
+                                <div class="txt1">Имя</div>
+                                <div class="txt2">Текст
                                 </div>
                                 <div class="social_sm_wrapper">
                                     <ul class="social_sm clearfix">
@@ -240,12 +222,11 @@
                         <div class="thumbnail clearfix">
                             <figure class="">
                                 <img src="http://placehold.it/262x257" alt="" class="img-responsive">
-                                <div class="over">Site Administrator</div>
+                                <div class="over">Должность</div>
                             </figure>
                             <div class="caption">
-                                <div class="txt1">George Smith</div>
-                                <div class="txt2">Nam liber tempor cum soluta nobis eleifend option congue nihil
-                                    imperdiet doming id quod mazim.
+                                <div class="txt1">Имя</div>
+                                <div class="txt2">Текст
                                 </div>
                                 <div class="social_sm_wrapper">
                                     <ul class="social_sm clearfix">
@@ -266,12 +247,11 @@
                         <div class="thumbnail clearfix">
                             <figure class="">
                                 <img src="http://placehold.it/262x257" alt="" class="img-responsive">
-                                <div class="over">Tour Operator</div>
+                                <div class="over">Должность</div>
                             </figure>
                             <div class="caption">
-                                <div class="txt1">Bill Amadeus</div>
-                                <div class="txt2">Nam liber tempor cum soluta nobis eleifend option congue nihil
-                                    imperdiet doming id quod mazim.
+                                <div class="txt1">Имя</div>
+                                <div class="txt2">Текст
                                 </div>
                                 <div class="social_sm_wrapper">
                                     <ul class="social_sm clearfix">
@@ -292,12 +272,11 @@
                         <div class="thumbnail clearfix">
                             <figure class="">
                                 <img src="http://placehold.it/262x257" alt="" class="img-responsive">
-                                <div class="over">Director</div>
+                                <div class="over">Должность</div>
                             </figure>
                             <div class="caption">
-                                <div class="txt1">Amanda Stoun</div>
-                                <div class="txt2">Nam liber tempor cum soluta nobis eleifend option congue nihil
-                                    imperdiet doming id quod mazim.
+                                <div class="txt1">Имя</div>
+                                <div class="txt2">Текст
                                 </div>
                                 <div class="social_sm_wrapper">
                                     <ul class="social_sm clearfix">

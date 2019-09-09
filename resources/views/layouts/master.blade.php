@@ -166,7 +166,7 @@
     <div class="bot2_wrapper">
         <div class="container">
             <div class="left_side">
-                Copyright © 2019 <strong>KazTravelAlmaty</strong> <span>|</span> <a href="#">Privacy Policy</a> <span>|</span>
+                Copyright © 2019 <strong>KazTravelAlmaty</strong> <span>|</span> <a href="#">Политика конфиденциальности</a> <span>|</span>
                 <a href="#">О нас</a> <span>|</span> <a href="#">FAQ</a> <span>|</span> <a href="#">Связаться с поддержкой</a>
             </div>
             <div class="right_side">Designed by <strong>Vision Internet Marketing</strong></div>
