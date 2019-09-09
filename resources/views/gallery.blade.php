@@ -24,10 +24,10 @@
 
             <div id="options" class="clearfix">
                 <ul id="filters" class="pagination option-set clearfix" data-option-key="filter">
-                    <li><a href="#filter" data-option-value="*" class="selected">All</a></li>
-                    <li><a href="#filter" data-option-value=".isotope-filter1">tours</a></li>
-                    <li><a href="#filter" data-option-value=".isotope-filter2">cruises</a></li>
-                    <li><a href="#filter" data-option-value=".isotope-filter3">hotels</a></li>
+                    <li><a href="#filter" data-option-value="*" class="selected">Все</a></li>
+                    <li><a href="#filter" data-option-value=".isotope-filter1">Туры</a></li>
+                    <li><a href="#filter" data-option-value=".isotope-filter2">Круизы</a></li>
+                    <li><a href="#filter" data-option-value=".isotope-filter3">Отели</a></li>
                 </ul>
             </div><!-- #options -->
 
@@ -40,9 +40,9 @@
                         <li class="element isotope-filter3 col-sm-4 col-xs-12">
                             <div class="thumb-isotope">
                                 <div class="thumbnail clearfix">
-                                    <a href="http://placehold.it/570x350" rel="prettyPhoto[mix]" title="Big Photo">
+                                    <a href="/images/hotel1.jpg" rel="prettyPhoto[mix]" title="Big Photo">
                                         <figure>
-                                            <img src="http://placehold.it/370x250" alt="" title="Thumbnail"><em></em>
+                                            <img src="/images/hotel1.jpg" alt="" title="Thumbnail"><em></em>
                                         </figure>
                                         <div class="caption">
                                             <div class="txt1">cannes, france</div>
@@ -55,9 +55,9 @@
                         <li class="element isotope-filter1 isotope-filter2 col-sm-8 col-xs-12">
                             <div class="thumb-isotope">
                                 <div class="thumbnail clearfix">
-                                    <a href="http://placehold.it/770x530" rel="prettyPhoto[mix]" title="Photo">
+                                    <a href="/images/hotel2.jpg" rel="prettyPhoto[mix]" title="Photo">
                                         <figure>
-                                            <img src="http://placehold.it/770x530" alt=""><em></em>
+                                            <img src="/images/hotel2.jpg" alt=""><em></em>
                                         </figure>
                                         <div class="caption">
                                             <div class="txt1">cannes, france</div>
@@ -70,9 +70,9 @@
                         <li class="element isotope-filter3 col-sm-4 col-xs-12">
                             <div class="thumb-isotope">
                                 <div class="thumbnail clearfix">
-                                    <a href="http://placehold.it/370x250" rel="prettyPhoto[mix]" title="Photo">
+                                    <a href="/images/hotel3.jpg" rel="prettyPhoto[mix]" title="Photo">
                                         <figure>
-                                            <img src="http://placehold.it/370x250" alt=""><em></em>
+                                            <img src="/images/hotel3.jpg" alt=""><em></em>
                                         </figure>
                                         <div class="caption">
                                             <div class="txt1">cannes, france</div>
@@ -85,9 +85,9 @@
                         <li class="element isotope-filter1 col-sm-4 col-xs-12">
                             <div class="thumb-isotope">
                                 <div class="thumbnail clearfix">
-                                    <a href="http://placehold.it/370x530" rel="prettyPhoto[mix]" title="Photo">
+                                    <a href="/images/paris.jpg" rel="prettyPhoto[mix]" title="Photo">
                                         <figure>
-                                            <img src="http://placehold.it/370x530" alt=""><em></em>
+                                            <img src="/images/paris.jpg" alt=""><em></em>
                                         </figure>
                                         <div class="caption">
                                             <div class="txt1">cannes, france</div>
@@ -100,9 +100,9 @@
                         <li class="element isotope-filter1 col-sm-4 col-xs-12">
                             <div class="thumb-isotope">
                                 <div class="thumbnail clearfix">
-                                    <a href="http://placehold.it/370x250" rel="prettyPhoto[mix]" title="Photo">
+                                    <a href="/images/oia.jpg" rel="prettyPhoto[mix]" title="Photo">
                                         <figure>
-                                            <img src="http://placehold.it/370x250" alt=""><em></em>
+                                            <img src="/images/oia.jpg" alt=""><em></em>
                                         </figure>
                                         <div class="caption">
                                             <div class="txt1">cannes, france</div>
@@ -115,9 +115,9 @@
                         <li class="element isotope-filter3 isotope-filter2 col-sm-4 col-xs-12">
                             <div class="thumb-isotope">
                                 <div class="thumbnail clearfix">
-                                    <a href="http://placehold.it/370x530" rel="prettyPhoto[mix]" title="Photo">
+                                    <a href="/images/hiker.jpg" rel="prettyPhoto[mix]" title="Photo">
                                         <figure>
-                                            <img src="http://placehold.it/370x530" alt=""><em></em>
+                                            <img src="/images/hiker.jpg" alt=""><em></em>
                                         </figure>
                                         <div class="caption">
                                             <div class="txt1">cannes, france</div>
@@ -130,9 +130,9 @@
                         <li class="element isotope-filter1 col-sm-4 col-xs-12">
                             <div class="thumb-isotope">
                                 <div class="thumbnail clearfix">
-                                    <a href="http://placehold.it/370x250" rel="prettyPhoto[mix]" title="Photo">
+                                    <a href="/images/desert.jpg" rel="prettyPhoto[mix]" title="Photo">
                                         <figure>
-                                            <img src="http://placehold.it/370x250" alt=""><em></em>
+                                            <img src="/images/desert.jpg" alt=""><em></em>
                                         </figure>
                                         <div class="caption">
                                             <div class="txt1">cannes, france</div>
@@ -145,9 +145,9 @@
                         <li class="element isotope-filter2 col-sm-12 col-xs-12">
                             <div class="thumb-isotope">
                                 <div class="thumbnail clearfix">
-                                    <a href="http://placehold.it/1168x530" rel="prettyPhoto[mix]" title="Photo">
+                                    <a href="/images/maldives.jpg" rel="prettyPhoto[mix]" title="Photo">
                                         <figure>
-                                            <img src="http://placehold.it/1168x530" alt=""><em></em>
+                                            <img src="/images/maldives.jpg" alt=""><em></em>
                                         </figure>
                                         <div class="caption">
                                             <div class="txt1">cannes, france</div>
@@ -160,9 +160,9 @@
                         <li class="element isotope-filter3 col-sm-4 col-xs-12">
                             <div class="thumb-isotope">
                                 <div class="thumbnail clearfix">
-                                    <a href="http://placehold.it/370x250" rel="prettyPhoto[mix]" title="Photo">
+                                    <a href="/images/maldives2.jpg" rel="prettyPhoto[mix]" title="Photo">
                                         <figure>
-                                            <img src="http://placehold.it/370x250" alt=""><em></em>
+                                            <img src="/images/maldives2.jpg" alt=""><em></em>
                                         </figure>
                                         <div class="caption">
                                             <div class="txt1">cannes, france</div>
@@ -175,9 +175,9 @@
                         <li class="element isotope-filter5 col-sm-8 col-xs-12">
                             <div class="thumb-isotope">
                                 <div class="thumbnail clearfix">
-                                    <a href="http://placehold.it/769x530" rel="prettyPhoto[mix]" title="Photo">
+                                    <a href="/images/photo4.jpg" rel="prettyPhoto[mix]" title="Photo">
                                         <figure>
-                                            <img src="http://placehold.it/769x530" alt=""><em></em>
+                                            <img src="/images/photo4.jpg" alt=""><em></em>
                                         </figure>
                                         <div class="caption">
                                             <div class="txt1">cannes, france</div>
@@ -190,9 +190,9 @@
                         <li class="element isotope-filter1 isotope-filter3 col-sm-4 col-xs-12">
                             <div class="thumb-isotope">
                                 <div class="thumbnail clearfix">
-                                    <a href="http://placehold.it/370x250" rel="prettyPhoto[mix]" title="Photo">
+                                    <a href="/images/photo5.jpg" rel="prettyPhoto[mix]" title="Photo">
                                         <figure>
-                                            <img src="http://placehold.it/370x250" alt=""><em></em>
+                                            <img src="/images/photo5.jpg" alt=""><em></em>
                                         </figure>
                                         <div class="caption">
                                             <div class="txt1">cannes, france</div>
